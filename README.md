@@ -1,5 +1,5 @@
 #Open
-Check [link](_config.yml).
+Check [link](blob/main/_config.yml).
 
 
 
