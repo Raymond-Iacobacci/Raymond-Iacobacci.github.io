@@ -1,5 +1,5 @@
 #Open
-Check [link](www.wikpedia.org).
+Check [link](README.md).
 
 
 
