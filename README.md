@@ -1,5 +1,5 @@
 #Open
-Check [link](README.md).
+Check [link](_config.yml).
 
 
 
