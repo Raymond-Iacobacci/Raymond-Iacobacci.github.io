@@ -1,7 +1,4 @@
-#Open
-Check [link](blob/main/_config.yml).
-
-
+index.html holds default page
 
 ## Welcome to GitHub Pages
 
