@@ -1,4 +1,4 @@
-index.html holds default page
+[index.html](index.html) holds default page
 
 ## Welcome to GitHub Pages
 
