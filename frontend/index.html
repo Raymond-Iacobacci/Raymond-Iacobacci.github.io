@@ -1,17 +1,19 @@
-
-
-<link href="/style.css" rel="stylesheet">
-<script src="/worker.js"></script>
-
+<link href="/css/style.css" rel="stylesheet">
 <body>
+    <header class="main-header">
+        Please enter your information as shown in the fields below
+    </header>
     <div class"container">
-        <header class="header">
-            Please enter your information as shown in the fields below now.
-        </header>
-
-        <form class="form sign-in">
-            <label for="Email" class="input form header"></label>
-            <input type="email" id="Email" class="input form" placeholder="Email address">
+        <form class="email sign-in">
+            <label for="Email" class="email input header"></label>
+            <input type="email" id="Email" class="email input header" placeholder="Email address">
+            <button class="btn btn-lg btn-primary btn-block" type="submit"></button>
+        </form>
+    </div>
+    <div class"container2">
+        <form class="username sign in">
+            <label for="username" class="username input header"></label>
+            <input type="text" id="Username" class="username input header" placeholder="Username text">
             <button class="btn btn-lg btn-primary btn-block" type="submit"></button>
         </form>
     </div>
