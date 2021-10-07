@@ -4,7 +4,7 @@ function newUser() {
   var password = document.getElementById("Username").value;
   var req = new XMLHttpRequest();
   var x = document.getElementById("Username").value;
-  document.getElementById("container").innerHTML = "You wrote: " + x;
+  document.getElementById("Email").innerHTML = "You wrote: ";
   req.open("POST", "http://54.183.187.3");
   req.send();
 }
